@@ -1,2 +1,2 @@
-# JX
-Yo wassup, idk what im doing here but i need to do it for UTAR to graduate
+# LearningGit
+This is a repo for UECS2363 Practical 4-6
